@@ -139,9 +139,9 @@ nano /etc/kolla/globals.yml
 ```
 
 ```sh
-kolla_base_distro: "centos" <- This is your distribution
+kolla_base_distro: "centos" <- This is your distribution, here I implemented it on an CENTOS9 machine
 kolla_install_type: "source"
-kolla_internal_vip_address: "192.168.1.177" <-- CentOS server IP address
+kolla_internal_vip_address: "X.X.X.X" <-- CentOS server IP address
 network_interface: "eth0" <-- network interface associated with CentOS IP
 neutron_external_interface: "br_ex_port" <-- The 2nd network interface (bridge)
 enable_openstack_core: "yes"
