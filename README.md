@@ -1,8 +1,10 @@
-# Installing OpenStack Kolla-Ansible on CENTOS9
+# Installing OpenStack Kolla-Ansible on CENTOS9 🚀
 
 ### Complete guide to install OpenStack with Kolla-Ansible on a CentOS machine
 
 > All-in-one installation
+
+![Ansible-Kolla-Img](Kolla-Ansible-img.png)
 
 ## Prerequisites
 
